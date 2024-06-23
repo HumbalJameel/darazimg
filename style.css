@@ -3,12 +3,12 @@ margin: 10px;
 }
 .img1{
     border: 2px solid black;
-    width: 200px;
-    height: 437px;
+    width: 380px;
+    height: 500px;
 }
 #tablet{
-    height: 180px;
-    width: 180px;
+    height: 300px;
+    width: 300px;
     padding: 5px 5px;
 }
 #price{
