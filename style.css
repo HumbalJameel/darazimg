@@ -1,0 +1,22 @@
+*{
+margin: 10px;
+}
+.img1{
+    border: 2px solid black;
+    width: 480px;
+    height: 600px;
+}
+#tablet{
+    height: 435px;
+    width: 435px;
+    /*border: 1px solid red;*/
+    padding: 10px 10px;
+}
+#price{
+    color: orangered;
+    font-size: xx-large;
+}
+#original{
+    font-size: large;
+    color: black;
+}
